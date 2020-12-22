@@ -1,6 +1,8 @@
 <template>
-  <div>
+  <div style="padding:10px">
     <h1>{{ msg }}</h1>
+    <button disabled="disabled">Click</button>
+    <button>Munna</button>
   </div>
 </template>
 
@@ -8,7 +10,7 @@
 export default {
   data() {
     return {
-      msg: 'Welcome!'
+      msg: 'Welcome to option page'
     }
   }
 }

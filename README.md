@@ -1,5 +1,7 @@
 # vue-chrome-extension-boilerplate
 
+#Here's an image of Life Cycle :
+
 
 ![Drag Racing](extension_life_cycle.png)
 
